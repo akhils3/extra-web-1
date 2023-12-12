@@ -1,0 +1,38 @@
+.b {
+    background-color: rgba(0, 0, 0, 0.365);
+  }
+
+.bgi{
+    background-image: url(pic/hero-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bgi1{
+    background-image: url(pic/section-bg-img.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.rb{
+    border-radius: 20px;
+}
+
+.h1{
+    height: 150px;
+}
+
+@media (max-width:700px)
+{
+    .h1{
+        height:0px;
+    }
+
+    .bgi1{
+        background-image: url(pic/section-bg-img.jpg);
+        background-attachment:scroll;
+        background-size: cover;
+    }
+    
+
+}
