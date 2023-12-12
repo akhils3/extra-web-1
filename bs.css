@@ -14,6 +14,12 @@
     background-size: cover;
 }
 
+.bgi2{
+    background-image: url(pic/about-bg-5.jpg);
+
+    background-size: cover;
+}
+
 .rb{
     border-radius: 20px;
 }
