@@ -26,6 +26,11 @@
     background-size: cover;
 }
 
+.bgi4{
+    background-image: url(pic/about-bg-2.jpg);
+
+    background-size: cover;
+}
 
 .rb{
     border-radius: 20px;
